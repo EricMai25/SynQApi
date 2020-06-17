@@ -31,7 +31,6 @@ Itineraries
             Name
             Localdatetime
             Address
-
         Arrival
             AirportCode
             Terminal
