@@ -5,7 +5,7 @@
 List of data requested from the Api:
 POST https://service.awardwallet.com/email/json/v2/parseEmail
 
-
+```
 Status
 Status Message
 Itineraries
@@ -61,3 +61,4 @@ Itineraries
         Status
         Cancelled
         Stops
+```
